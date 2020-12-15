@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel1.jpg",
+        "alt": "Lady outside view",
+        "name": "Lady outside view",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel2.jpg",
+        "alt": "Natural Waterfalls",
+        "name": "Natural Waterfalls",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel3.jpg",
+        "alt": "Perfect Desert",
+        "name": "Perfect Desert",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel4.jpg",
+        "alt": "In the Woods",
+        "name": "In the Woods",
+        "button": "View Destination"
+    }
+]
