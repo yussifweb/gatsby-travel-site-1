@@ -43,8 +43,7 @@ const Testimonials = () => {
                 <CulumnTwo>
                     {data.allFile.edges.map((image, key) => (
                         <Images key={key} fluid={image.node.childImageSharp.fluid} />
-                    ))}
-                    
+                    ))}                    
                 </CulumnTwo>
             </ContentWrapper>
         </TestimonialsContainer>
